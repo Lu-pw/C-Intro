@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1574760068 source:e:\mycppspace\learn\map大小和交换\main.cpp
+	<iostream>
+	<map>
+
