@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1575546415 source:e:\mycppspace\learn\常用集合算法set_intersection\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

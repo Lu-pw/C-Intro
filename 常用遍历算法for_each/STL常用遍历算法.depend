@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1575295688 source:e:\mycppspace\learn\stl常用遍历算法\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
